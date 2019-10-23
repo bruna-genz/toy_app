@@ -1,24 +1,5 @@
-# README
+# Toy App - Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the first Ruby on Rails project, recquired on Microverse's curiculum. The assignment instruction can be found on [The Odin Project]("https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet").
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project was develop by [Bruna Genz]("https://github.com/bruna-genz") and [Nicolás Mariño]("https://github.com/nicolasmarino99").
